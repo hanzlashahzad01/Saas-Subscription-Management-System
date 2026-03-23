@@ -286,6 +286,17 @@ For testing payments, use these Stripe test card numbers:
 <img width="1919" height="1031" alt="user setting" src="https://github.com/user-attachments/assets/9fcb44d4-72bd-44fb-8898-051560de8611" />
 
 
+.
+
+## 📬 Connect with Me
+I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions.
+
+Email: hanzlashahzadhanzlashahzad@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/hanzla-shahzad
+
+GitHub: https://github.com/hanzlashahzad01/hanzlashahzad01
+
 ## 📝 License
 
 MIT License
